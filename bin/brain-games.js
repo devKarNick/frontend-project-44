@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-export default () => console.log('Welcome to the Brain Games!');
+import greetingUser from "../src/cli.js";
 
-import greeting from './brain-games.js';
-
-greeting();
+greetingUser();
