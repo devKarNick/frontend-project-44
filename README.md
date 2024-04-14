@@ -23,9 +23,13 @@ make install
     * **brain-games** - enters greetings mode 
     * **brain-even** - starts the game, in which you need to tell is the number even
     * **brain-calc** - starts the game, in which you need to do math operations with two random numbers
+    * **brain-gcd** - starts the game, in which you need to find the greatest common divider of two random numbers
 
 ### Brain-even game
 <a href="https://asciinema.org/a/zBzTJEMeSi9JBeZaGtAX86Nu0" target="_blank"><img src="https://asciinema.org/a/zBzTJEMeSi9JBeZaGtAX86Nu0.svg" /></a>   
 
 ### Brain-calc game
 <a href="https://asciinema.org/a/5ORKwgUnMeqpWm6AjW3O2JEFp" target="_blank"><img src="https://asciinema.org/a/5ORKwgUnMeqpWm6AjW3O2JEFp.svg" /></a>   
+
+### Brain-gcd game
+<a href="https://asciinema.org/a/zJMQ57zNc9CP4TTE0HSxgACvv" target="_blank"><img src="https://asciinema.org/a/zJMQ57zNc9CP4TTE0HSxgACvv.svg" /></a>
