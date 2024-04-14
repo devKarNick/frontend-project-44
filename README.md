@@ -24,6 +24,7 @@ make install
     * **brain-even** - starts the game, in which you need to tell is the number even
     * **brain-calc** - starts the game, in which you need to do math operations with two random numbers
     * **brain-gcd** - starts the game, in which you need to find the greatest common divider of two random numbers
+    * **brain-progression** - starts the game, in which you need to complete the progression with correct number
 
 ### Brain-even game
 <a href="https://asciinema.org/a/zBzTJEMeSi9JBeZaGtAX86Nu0" target="_blank"><img src="https://asciinema.org/a/zBzTJEMeSi9JBeZaGtAX86Nu0.svg" /></a>   
@@ -33,3 +34,6 @@ make install
 
 ### Brain-gcd game
 <a href="https://asciinema.org/a/zJMQ57zNc9CP4TTE0HSxgACvv" target="_blank"><img src="https://asciinema.org/a/zJMQ57zNc9CP4TTE0HSxgACvv.svg" /></a>
+
+### Brain-progression game
+<a href="https://asciinema.org/a/9UwSvLKdQTWCoL4tMlSvkce8G" target="_blank"><img src="https://asciinema.org/a/9UwSvLKdQTWCoL4tMlSvkce8G.svg" /></a>
