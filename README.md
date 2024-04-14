@@ -18,11 +18,14 @@ Open a 'frontend-project-44' directory, install the required dependencies
 make install
 ```
 ## Launch the game
-Open main directory
-Type following commands to start:
+1. Enter main directory
+1. Type following commands to start:
     * **brain-games** - enters greetings mode 
     * **brain-even** - starts the game, in which you need to tell is the number even
+    * **brain-calc** - starts the game, in which you need to do math operations with two random numbers
 
 ### Brain-even game
 <a href="https://asciinema.org/a/zBzTJEMeSi9JBeZaGtAX86Nu0" target="_blank"><img src="https://asciinema.org/a/zBzTJEMeSi9JBeZaGtAX86Nu0.svg" /></a>   
-   
+
+### Brain-calc game
+<a href="https://asciinema.org/a/5ORKwgUnMeqpWm6AjW3O2JEFp" target="_blank"><img src="https://asciinema.org/a/5ORKwgUnMeqpWm6AjW3O2JEFp.svg" /></a>   
